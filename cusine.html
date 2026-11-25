@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BC Cuisine Travel Guide: Vancouver & Whistler</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <header>
+        <h1>West Coast Culinary Guide</h1>
+        <p>Where to Eat in Vancouver & Whistler</p>
+        <nav class="navbar">
+            <a href="index.html">Travel Guide</a>
+            <a href="destination.html">Destination</a>
+            <a href="cusine.html">Cuisine & Dining</a>
+            <a href="contact.html">FAQ-Contact</a>
+        </nav>
+    </header>
+
+    <main>
+        <!-- Vancouver Section -->
+        <section id="vancouver">
+            <h2>Vancouver Dining</h2>
+            <ul>
+                <li>
+                    <span class="restaurant-name">Top of Vancouver Revolving Restaurant</span>
+                    <span class="restaurant-desc">Fine dining 553 feet above the city with panoramic 360-degree views of Vancouver, the coastal mountains, and the ocean.</span>
+                </li>
+                <li>
+                    <span class="restaurant-name">JOEY (Coquitlam, Burrard, or Burnaby)</span>
+                    <span class="restaurant-desc">Upscale casual dining featuring globally inspired dishes, handcrafted cocktails, and a vibrant atmosphere across multiple Metro Vancouver locations.</span>
+                </li>
+                <li>
+                    <span class="restaurant-name">Ask For Luigi</span>
+                    <span class="restaurant-desc">An intimate, highly sought-after Railtown eatery famous for its handmade fresh pasta and comforting Italian dishes.</span>
+                </li>
+            </ul>
+
+            <h3>Granville Island</h3>
+            <ul>
+                <li>
+                    <span class="restaurant-name">The Vancouver Fish Company</span>
+                    <span class="restaurant-desc">Waterfront dining specializing in fresh, locally sourced Pacific Northwest seafood and ocean views.</span>
+                </li>
+                <li>
+                    <span class="restaurant-name">Tap & Barrel</span>
+                    <span class="restaurant-desc">A lively waterfront spot offering locally brewed craft beers, BC wines on tap, and elevated comfort food.</span>
+                </li>
+                <li>
+                    <span class="restaurant-name">The Lobster Man</span>
+                    <span class="restaurant-desc">An iconic Granville Island seafood market and counter-service spot famous for fresh lobster rolls and live Atlantic lobster.</span>
+                </li>
+            </ul>
+        </section>
+
+        <!-- Whistler Section -->
+        <section id="whistler">
+            <h2>Whistler Dining</h2>
+            <ul>
+                <li>
+                    <span class="restaurant-name">Balam</span>
+                    <span class="restaurant-desc">Modern Mexican cuisine and vibrant cocktails located in the heart of Whistler Village.</span>
+                </li>
+                <li>
+                    <span class="restaurant-name">Araxi Restaurant + Oyster Bar</span>
+                    <span class="restaurant-desc">A renowned Whistler Village cornerstone celebrated for fresh Pacific Northwest seafood, farm-to-table dining, and an extensive wine list.</span>
+                </li>
+                <li>
+                    <span class="restaurant-name">Bar Oso</span>
+                    <span class="restaurant-desc">An intimate, stylish lounge offering Spanish-influenced tapas, house-made charcuterie, and craft cocktails.</span>
+                </li>
+                <li>
+                    <span class="restaurant-name">The Wildflower (Upper Village)</span>
+                    <span class="restaurant-desc">A welcoming, full-service restaurant in the Upper Village highlighting regional Pacific Northwest cuisine and locally sourced ingredients.</span>
+                </li>
+                <li>
+                    <span class="restaurant-name">Nagomi Sushi (Upper Village)</span>
+                    <span class="restaurant-desc">A lively Upper Village restaurant serving fresh sushi rolls, sashimi, and Japanese comfort dishes right at the base of Blackcomb Mountain.</span>
+                </li>
+                <li>
+                    <span class="restaurant-name">Portobello (Upper Village)</span>
+                    <span class="restaurant-desc">A bustling, casual café in the Upper Village famous for fresh-baked pastries, specialty coffee, and made-to-order smoked meat sandwiches.</span>
+                </li>
+                <li>
+                    <span class="restaurant-name">Rimrock Café</span>
+                    <span class="restaurant-desc">A cozy, lodge-style favorite tucked away in Creekside, famous for refined seafood and game dishes.</span>
+                </li>
+                <li>
+                    <span class="restaurant-name">Peaked Pies</span>
+                    <span class="restaurant-desc">A popular Australian-style bakery café serving savory meat pies, sweet pastries, and coffee—ideal for a quick bite after hitting the slopes.</span>
+                </li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 BC Culinary Travel Guide</p>
+    </footer>
+
+</body>
+</html>
