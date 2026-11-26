@@ -36,3 +36,50 @@ header h1 {
 .navbar a:hover {
     background-color: #3e7053;
 }
+
+.home-destinations {
+    display: flex;
+    min-height: 75vh;
+}
+
+.home-vancouver,
+.home-whistler {
+    flex: 1;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-decoration: none;
+    text-shadow: 2px 2px 5px black;
+}
+
+.home-vancouver {
+    background-image: url("../images/vancouver.jpg");
+}
+
+.home-whistler {
+    background-image: url("../images/whistler.jpg");
+}
+
+.home-destinations h2 {
+    font-size: 48px;
+    margin: 0;
+}
+
+.home-destinations p {
+    font-size: 20px;
+}
+
+@media (max-width: 600px) {
+    .home-destinations {
+        flex-direction: column;
+    }
+
+    .home-vancouver,
+    .home-whistler {
+        min-height: 350px;
+    }
+}
